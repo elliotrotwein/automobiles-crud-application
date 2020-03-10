@@ -31,7 +31,7 @@ What's missing in this app?
   - CSS
   - Client side scripting
   - Other stuff. I'm aware this app could use some work. This project was intented to be very
-  basic and used as a medium to developing an understanding of some core web development concepts.
+  basic and used as a medium to developing an understanding of core web development concepts.
   Once I have so many automobiles that I can no longer keep track, my plan is to come back and
   really make this thing amazing.
 
