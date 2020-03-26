@@ -12,7 +12,7 @@ What does this app do?
   
 Technical Features:
  - Home page that requires users to log in before displaying data
- - Form validation (on log in and when adding/updating automobile)
+ - Server side form validation (on log in and when adding/updating automobile)
  - POST/REDIRECT/GET to avoid form resubmission issues
  - Flash messages that are passed between files using $_SESSION variables
  - Safe from HTML injection through use of htmlentities()
