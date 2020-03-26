@@ -38,8 +38,7 @@ What's missing in this app?
 How to run this app on LinuxOS using previously installed LAMP stack:
   1. Fork the repository and then clone
   2. Copy the cloned repo to your local Apache web server (/var/www/html/)
-  3. Create a MySQL database with instructions provided in MySQLQueries.txt (TODO: Need to add
-  this file)
+  3. Create a MySQL database with code provided in mysql-setup.txt
   4. Open browser and connect to localhost or 127.0.0.1 to render files copied into /var/www/html/
  
 
